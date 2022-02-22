@@ -1,0 +1,2 @@
+# belajarGit
+mencoba memahami git 
